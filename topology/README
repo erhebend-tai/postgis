@@ -86,7 +86,7 @@ To destroy a topology:
 
 To load topology data in a topology you can use INSERT
 statements filling up the Edge, Node and Face relations
-under you topology schema:
+under yo topology schema:
 
 
 	* Edge
